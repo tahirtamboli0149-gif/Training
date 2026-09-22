@@ -9,3 +9,5 @@ print(s1)
 
 s1.discard("java")
 print(s1)
+
+print(s1.pop())
