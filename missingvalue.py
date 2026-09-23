@@ -24,3 +24,6 @@ print("Numerical Columns:", numerical_columns)
 
 print("Missing values in numerical columns:")
 print(df[numerical_columns].isnull().sum())
+
+
+""""SUCCESSFULLY COMPLETED THE 1ST STEP OF EDA - MISSING VALUE ANALYSIS"""

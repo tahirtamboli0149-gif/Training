@@ -41,3 +41,6 @@ df1_df=pd.DataFrame(df1_arr,columns=[ 'City_Pune',  'Area_Gangapur Road',
        'Area_Govind Nagar', 'Area_Wadgaon_BK', 'Area_Wagoli',
        'Parking_Yes'])
 print(df1_df.head())
+
+
+"""SUCCESSFULLY COMPLETED THE 2ND STEP OF EDA - NOMINAL CATEGORICAL DATA ANALYSIS"""
